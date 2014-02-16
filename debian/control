@@ -45,7 +45,7 @@ Description: Command line interface for RabbitVCS
 Package: rabbitvcs-gedit
 Architecture: all
 Depends: ${misc:Depends},
-         gedit (>= 3.0),
+         gedit,
          rabbitvcs-core (>= 0.15)
 Description: Gedit extension for RabbitVCS
  RabbitVCS is a set of graphical tools written to provide simple and
@@ -80,7 +80,7 @@ Package: rabbitvcs-thunar
 Architecture: all
 Depends: ${misc:Depends},
          thunar (>= 0.4.0),
-         thunarx-python (>= 0.3.0),
+         thunarx-python (>= 0.2.0),
          rabbitvcs-core (>= 0.15)
 Description: Thunar extension for RabbitVCS
  RabbitVCS is a set of graphical tools written to provide simple and
