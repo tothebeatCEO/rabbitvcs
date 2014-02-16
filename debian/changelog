@@ -1,6 +1,17 @@
-rabbitvcs (0.15.3-1~saucy) saucy; urgency=low
+rabbitvcs (0.15.3-3~raring) raring; urgency=low
 
-  * Packaging for Ubuntu 13.10 (Saucy)
+  * Correcting accidental upload of incorrectly built package
 
- -- Jason Heeris <jason.heeris@gmail.com>  Mon, 02 Dec 2013 11:32:52 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 16 Jun 2013 10:22:52 +0800
 
+rabbitvcs (0.15.3-2~raring) raring; urgency=low
+
+  * Fixed thunarx-python script installation
+
+ -- Jason Heeris <jason.heeris@gmail.com>  Sat, 15 Jun 2013 12:09:05 +0800
+
+rabbitvcs (0.15.3-1~raring) raring; urgency=low
+
+  * New upstream release 0.15.3
+
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 05 May 2013 20:15:50 +0800

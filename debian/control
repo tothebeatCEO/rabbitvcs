@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7),
                python (>= 2.5.2)
 Build-Depends-Indep: python-support (>= 0.5.3),
                      pkg-config (>= 0.20)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.2.0
 XS-Python-Version: >= 2.5
 Homepage: http://www.rabbitvcs.org
 
