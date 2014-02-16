@@ -1,16 +1,16 @@
-rabbitvcs (0.15.3-2~precise) precise; urgency=low
+rabbitvcs (0.15.3-2~oneiric) oneiric; urgency=low
 
-  * Fixed thunarx-python script installation
+  * Fixed thunarx-python script placement
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sat, 15 Jun 2013 11:57:07 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sat, 15 Jun 2013 11:24:27 +0800
 
-rabbitvcs (0.15.3-1~precise) precise; urgency=low
+rabbitvcs (0.15.3-1~oneiric) oneiric; urgency=low
 
   * New upstream release 0.15.3
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sun, 05 May 2013 18:36:14 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 05 May 2013 18:50:29 +0800
 
-rabbitvcs (0.15.2-1~precise) precise; urgency=low
+rabbitvcs (0.15.2-1~oneiric) oneiric; urgency=low
 
   * New upstream release 0.15.2
   * Issue 187: Drop-down list of pre-defined properties in the property dialog
@@ -26,40 +26,40 @@ rabbitvcs (0.15.2-1~precise) precise; urgency=low
   * Fixed commit ID not being reported when committing to a git repository.
   * Updated packaging for Ubuntu and Debian. Added packaging for Quantal Quetzal (12.10) Ubuntu release.
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sun, 16 Sep 2012 16:44:44 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 16 Sep 2012 16:40:59 +0800
 
-rabbitvcs (0.15.1-1~precise) precise; urgency=low
+rabbitvcs (0.15.1-1~oneiric) oneiric; urgency=low
 
   * New upstream release (multiple bugfixes)
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sun, 26 Aug 2012 10:06:10 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 26 Aug 2012 10:06:01 +0800
 
-rabbitvcs (0.15.0.5-1~precise) precise; urgency=low
+rabbitvcs (0.15.0.5-1~oneiric) oneiric; urgency=low
 
   * New upstream release fixing gtkspell integration issue
 
- -- Jason Heeris <jason.heeris@gmail.com>  Thu, 10 Nov 2011 07:22:26 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Thu, 10 Nov 2011 07:21:56 +0800
 
-rabbitvcs (0.15.0.3-1~precise) precise; urgency=low
+rabbitvcs (0.15.0.3-1~oneiric) oneiric; urgency=low
 
   * New upstream point release: fixes missing data files.
 
- -- Jason Heeris <jason.heeris@gmail.com>  Wed, 09 Nov 2011 23:43:26 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Wed, 09 Nov 2011 23:43:02 +0800
 
-rabbitvcs (0.15.0.1-3~precise) precise; urgency=low
+rabbitvcs (0.15.0.1-3~oneiric) oneiric; urgency=low
 
   * Fixed client installation
 
- -- Jason Heeris <jason.heeris@gmail.com>  Tue, 08 Nov 2011 08:22:51 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Tue, 08 Nov 2011 08:21:45 +0800
 
-rabbitvcs (0.15.0.1-2~precise) precise; urgency=low
+rabbitvcs (0.15.0.1-2~oneiric) oneiric; urgency=low
 
-  * Fixed epoch numbering of dependencies
+  * Fixed epoch numbering in dependency
 
- -- Jason Heeris <jason.heeris@gmail.com>  Mon, 07 Nov 2011 23:57:30 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Mon, 07 Nov 2011 23:50:35 +0800
 
-rabbitvcs (0.15.0.1-1~precise~test1) precise; urgency=low
+rabbitvcs (0.15.0.1-1~oneiric~test1) oneiric; urgency=low
 
-  * Initial packaging for precise
+  * Initial packaging for Oneiric
 
  -- Jason Heeris <jason.heeris@gmail.com>  Sun, 06 Nov 2011 20:15:57 +0800
