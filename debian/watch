@@ -1,2 +1,3 @@
 version=2
-https://github.com/rabbitvcs/rabbitvcs .*/v?(.+)\.tar\.gz
+https://github.com/rabbitvcs/rabbitvcs/releases .*/v?(.+)\.tar\.gz
+
