@@ -1,5 +1,5 @@
-rabbitvcs (0.16-1~trusty) trusty; urgency=medium
+rabbitvcs (0.16-1~utopic) utopic; urgency=medium
 
-  * New upstream release
+  * Packaging for new distro
 
- -- Jason Heeris <jason.heeris@gmail.com>  Sun, 23 Feb 2014 16:53:05 +0800
+ -- Jason Heeris <jason.heeris@gmail.com>  Sun, 17 Aug 2014 11:49:27 +0800
