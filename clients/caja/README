@@ -4,7 +4,7 @@ This extension is meant to be used with the Caja (MATE) File Manager,
 
 Requirements:
     * caja
-    * caja-python
+    * python-caja
     * python-dbus (> 0.80)
     * (all other RabbitVCS requirements)
 
